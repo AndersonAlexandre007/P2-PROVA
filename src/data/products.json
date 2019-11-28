@@ -1,0 +1,50 @@
+{
+    "products": [ 
+        {
+            "id": 1,
+            "title": "Mitologia Nórdica", 
+            "img": "1.jpg",           
+            "autor": "Gaiman, Neil, Barreiros, Edmundo",
+            "drescicao": "Fãs e leitores sabem que a mitologia nórdica sempre teve grande influência na obra do autor.",
+            "taxa de leitora": "56",
+            "valor": 23
+            
+        },
+        {
+            "id": 2,
+            "title": "As Crônicas De Nárnia",
+            "img": "2.jpg",            
+            "autor": "Lewis,Clive Staples",
+            "drescicao": "O leão, a feiticeira e o guarda-roupa'', escrito em 1949 por Clive Staples Lewis. MasLewis não parou por aí.",
+            "taxa de leitora": "62",
+            "valor": 28
+        },
+        {
+            "id": 3,
+            "title": "Percy Jackson e Os Olimpianos - Vol. 1 - o Ladrão de Raios",
+            "img": "3.jpg",
+            "autor": "Riordan,Rick",
+            "drescicao": "O Ladrão de Raios esteve entre os primeiros lugares na lista das séries mais vendidas do The New York Times.",
+            "taxa de leitora": "5",
+            "valor": 35
+        },
+        {
+            "id": 4,
+            "title": "Algoritmos - Lógica Para Desenvolvimento de Programação de Computadores",
+            "img": "4.jpg",
+            "autor": "Manzano,Jose Augusto N. G.Oliveira,Jayr Figueiredo",
+            "drescicao": "Breve análise da programação estruturada em comparação com a programação orientada a objetos.",
+            "taxa de leitora": "20",
+            "valor": 126
+        },
+        {
+            "id": 5,
+            "title": "Html5 e Css3 - Guia Prático e Visual",
+            "img": "5.jpg",
+            "autor": "Castro,ElizabethHyslop,Bruceo",
+            "drescicao": "Seja um novato em HTML e CSS ou já esteja criando sites há anos, querendo aprender sobre HTML5, CSS3 ",
+            "taxa de leitora": "5",
+            "valor": 77                   
+        }
+    ]
+}
